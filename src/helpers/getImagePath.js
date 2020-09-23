@@ -1,0 +1,1 @@
+export const getImagePath = `https://image.tmdb.org/t/p/w370_and_h556_multi_faces`
